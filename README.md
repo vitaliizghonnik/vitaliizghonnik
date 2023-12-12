@@ -2,11 +2,12 @@
 ## Software Tester / QA
 ### Thank you for looking on my profile and I hope you are doing well🙏
 
+- 🤝 I'd be delighted to join: __The inspiring team that values collaboration, driven by a shared commitment to contributing to projects while also finding enjoyment throughout the process__
 - 🔭 I’m currently working on: __Automation testing of the major functionalities of Trello management tool__ 
 - 🌱 I’m currently learning: __JavaScript, Jenkins, Docker__
 - 👯 I’m looking to collaborate on: __Open source projects that aim to improve the quality and performance of web applications, using modern technologies and best practices. I have experience in API testing and I enjoy exploring software🔍, finding bugs and improving user experience.__
-- 🤔 I’m looking for help with: Jenkins configuration
-- ⚡ Fun fact: For some time in the past, I considered myself a non-tech person, even though I graduated as an engineer. But I've made changes, and since then, I can’t wait to explore the entire tech world! 🌎👨‍💻
+- 🤔 I’m looking for help with: Custom Docker image, Configuring a Jenkins agent
+- 😏 Fun fact: For some time in the past, I considered myself a non-tech person, even though I graduated as an engineer. But I've made changes, and since then, I can’t wait to explore the entire tech world! 🌎👨‍💻
 <table>
     <tr>
         <th>My CV</th>
@@ -23,6 +24,7 @@
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/vitaliizgnonnik/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="mailto:vitalii.zghonnik@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
