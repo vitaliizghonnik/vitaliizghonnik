@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: __JavaScript, Jenkins, Docker__
 - 👯 I’m looking to collaborate on: __Open source projects that aim to improve the quality and performance of web applications, using modern technologies and best practices. I have experience in API testing and I enjoy exploring software🔍, finding bugs and improving user experience.__
 - 🤔 I’m looking for help with: Custom Docker image, Configuring a Jenkins agent
-- 😏 Fun fact: For some time in the past, I considered myself a non-tech person, even though I graduated as an engineer. But I've made changes, and since then, I can’t wait to explore the entire tech world! 🌎👨‍💻
+- 😏 Fun fact: I used to consider myself non-technical, even though I graduated as an engineer. But I've made changes, and since then, I can't wait to explore the entire tech world! 🌎👨‍💻
 <table>
     <tr>
         <th>My CV</th>
@@ -33,33 +33,19 @@
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
-        <td>SysOps</td>
+        <td>DevOps</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
         <td>Programming</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>Databases/Datastores</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td>IDEs</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
     <tr>
@@ -72,10 +58,31 @@
         </td>
     </tr>
     <tr>
+        <td>IssueTrackingSystems</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jira/jira-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/trello/trello-plain.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Databases/Datastores</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>IDEs</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
+        </td>
+    </tr>
+    <tr>
         <td>Others/Misc</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src=""/></a> -->
         </td>
     </tr>
