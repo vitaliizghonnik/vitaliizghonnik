@@ -1,13 +1,16 @@
 # Hello there 👋, I'm Vitalii Zghonnik
-## Software Tester / QA
+## 🚀 Aspiring IT Professional | Support Specialist | QA Engineer
 ### Thank you for looking at my profile and I hope you are doing well🙏
+<h2>🗣️👨‍💻🛠️About me</h2>
 
+- 🔭 Currently transitioning into IT Help Desk/IT Support
 - 🤝 I'd be delighted to join: __The inspiring team that values collaboration, driven by a shared commitment to contributing to projects while also finding enjoyment throughout the process__
-- 🔭 I’m currently working on: __Automation testing of the major functionalities of Trello management tool__ 
-- 🌱 I’m currently learning: __JavaScript, Jenkins, Docker__
-- 👯 I’m looking to collaborate on: __Open source projects that aim to improve the quality and performance of web applications, using modern technologies and best practices. I have experience in API testing and I enjoy exploring software🔍, finding bugs, and improving user experience.__
-- 🤔 I’m looking for help with: Custom Docker image, Configuring a Jenkins agent
-- 😏 Fun fact: I considered myself non-technical, even though I graduated as an engineer. But I've made changes, and since then, I can't wait to explore the entire tech world! 🌎👨‍💻
+- 📚 Certification: Preparing for CompTIA Tech+ certification
+- 🌱 I’m currently working on: ___Building hands-on experience through practical projects utilizing VMware, Windows Server & Active Directory, PowerShell, Office 365__
+- 👯 I’m looking to collaborate on: __Coming soon...__
+- 🔠 Languages: English (Upper-Intermediate), Polish (Upper-Intermediate), Ukrainian (Native), Russian (Intermediate)
+- 😏 Fun fact: I considered myself non-technical, even though I graduated as an engineer. But I've made changes; since then, I can't wait to explore the entire tech world! 🌎👨‍💻
+
 <table>
     <tr>
         <th>My CV</th>
@@ -21,12 +24,23 @@
 
 
 
-### Contact me:
+<h2>🤝Connect With Me:</h2>
 
 <a href="https://www.linkedin.com/in/vitaliizghonnik/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="mailto:vitalii.zghonnik@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
-### Toolset
+<h2>🗂️Projects:</h2>
+
+- <b>💼IT Infrastructure & Support Projects</b>
+  - [Windows Server & Active Directory Lab](https://github.com/vitaliizghonnik)
+    
+- <b>🔍QA Engineering Projects</b>
+  - [Automated testing framework for RESTful APIs using Postman, Newman, Jenkins, and Docker](https://github.com/vitaliizghonnik/trello-rest-api-automation-testing)
+    
+- <b>👨‍💻Software Development Projects</b>
+  - [Notes Application: Node.js based application with basic security concepts](https://github.com/vitaliizghonnik/secure-notes-app)
+
+<h2>🛠️Toolset:</h2>
 
 <table>
     <tr>
