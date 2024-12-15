@@ -5,7 +5,7 @@
 
 - 🔭 Currently transitioning into IT Help Desk/IT Support
 - 🤝 I'd be delighted to join: __The inspiring team that values collaboration, driven by a shared commitment to contributing to projects while also finding enjoyment throughout the process__
-- 📚 Certification: Preparing for CompTIA Tech+ certification
+- 📚 Certification: CompTIA Tech+ Certified | Preparing for CompTIA A+ certification
 - 🌱 I’m currently working on: ___Building hands-on experience through practical projects utilizing VMware, Windows Server & Active Directory, PowerShell, Office 365__
 - 👯 I’m looking to collaborate on: __Coming soon...__
 - 🔠 Languages: English (Upper-Intermediate), Polish (Upper-Intermediate), Ukrainian (Native), Russian (Intermediate)
@@ -32,7 +32,7 @@
 <h2>🗂️Projects:</h2>
 
 - <b>💼IT Infrastructure & Support Projects</b>
-  - [Windows Server & Active Directory Lab](https://github.com/vitaliizghonnik)
+  - [Windows Server & Active Directory Lab](https://github.com/vitaliizghonnik/windows-server-2025-ad-lab)
     
 - <b>🔍QA Engineering Projects</b>
   - [Automated testing framework for RESTful APIs using Postman, Newman, Jenkins, and Docker](https://github.com/vitaliizghonnik/trello-rest-api-automation-testing)
