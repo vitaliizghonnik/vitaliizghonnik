@@ -1,12 +1,12 @@
 # Hello there 👋, I'm Vitalii Zghonnik
-## 🚀 Aspiring IT Professional | Support Specialist | QA Engineer
-### Thank you for looking at my profile and I hope you are doing well🙏
+## 🚀 Aspiring IT Professional | IT Help Desk | IT Support Specialist
+### Thank you for looking at my profile, and I hope you are doing well.
 <h2>🗣️👨‍💻🛠️About me</h2>
 
 - 🔭 Currently transitioning into IT Help Desk/IT Support
 - 🤝 I'd be delighted to join: __The inspiring team that values collaboration, driven by a shared commitment to contributing to projects while also finding enjoyment throughout the process__
-- 📚 Certification: CompTIA Tech+ Certified | Preparing for CompTIA A+ certification
-- 🌱 I’m currently working on: ___Building hands-on experience through practical projects utilizing VMware, Windows Server & Active Directory, PowerShell, Office 365__
+- 📚 Certification: CompTIA Certified: Tech+ & A+
+- 🌱 I’m currently working on: __Building hands-on experience through practical projects utilizing VMware, Windows Server & Active Directory, PowerShell, Office 365__
 - 👯 I’m looking to collaborate on: __Coming soon...__
 - 🔠 Languages: English (Upper-Intermediate), Polish (Upper-Intermediate), Ukrainian (Native), Russian (Intermediate)
 - 😏 Fun fact: I considered myself non-technical, even though I graduated as an engineer. But I've made changes; since then, I can't wait to explore the entire tech world! 🌎👨‍💻
