@@ -1,11 +1,11 @@
 # Hello there 👋, I'm Vitalii Zghonnik
-## 🚀 Aspiring IT Professional | IT Help Desk | IT Support Specialist
+## 🚀 IT Professional | IT Help Desk | IT Support Specialist
 ### Thank you for looking at my profile, and I hope you are doing well.
 <h2>🗣️👨‍💻🛠️About me</h2>
 
 - 🔭 Currently transitioning into IT Help Desk/IT Support
 - 🤝 I'd be delighted to join: __The inspiring team that values collaboration, driven by a shared commitment to contributing to projects while also finding enjoyment throughout the process__
-- 📚 Certification: CompTIA Certified: Tech+ & A+
+- 📚 Certification: CompTIA Certified: Tech+ & A+. Practical Help Desk Associate (PHDA) Certification from TCM Security in Progress.
 - 🌱 I’m currently working on: __Building hands-on experience through practical projects utilizing VMware, Windows Server & Active Directory, PowerShell, Office 365__
 - 👯 I’m looking to collaborate on: __Coming soon...__
 - 🔠 Languages: English (Upper-Intermediate), Polish (Upper-Intermediate), Ukrainian (Native), Russian (Intermediate)
@@ -32,7 +32,8 @@
 <h2>🗂️Projects:</h2>
 
 - <b>💼IT Infrastructure & Support Projects</b>
-  - [Windows Server & Active Directory Lab](https://github.com/vitaliizghonnik/windows-server-2025-ad-lab)
+  - [Windows Server & Active Directory Lab on VMware](https://github.com/vitaliizghonnik/windows-server-2025-ad-lab)
+  - [IT Support Ticketing and Remote Access Lab](https://github.com/vitaliizghonnik/it-support-ticketing-lab)
     
 - <b>🔍QA Engineering Projects</b>
   - [Automated testing framework for RESTful APIs using Postman, Newman, Jenkins, and Docker](https://github.com/vitaliizghonnik/trello-rest-api-automation-testing)
