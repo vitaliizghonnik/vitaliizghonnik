@@ -34,6 +34,7 @@
 - <b>💼IT Infrastructure & Support Projects</b>
   - [Windows Server & Active Directory Lab on VMware](https://github.com/vitaliizghonnik/windows-server-2025-ad-lab)
   - [IT Support Ticketing and Remote Access Lab](https://github.com/vitaliizghonnik/it-support-ticketing-lab)
+  - [IT Tasks Automation](https://github.com/vitaliizghonnik/it-tasks-automation-scripts)
     
 - <b>🔍QA Engineering Projects</b>
   - [Automated testing framework for RESTful APIs using Postman, Newman, Jenkins, and Docker](https://github.com/vitaliizghonnik/trello-rest-api-automation-testing)
